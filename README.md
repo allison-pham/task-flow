@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-Task scheduler to track flow of to do lists.
+Task scheduler to track flow of to do lists
 
 ## Project setup
 ```npm install```
